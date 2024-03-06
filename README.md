@@ -1,7 +1,4 @@
 # jest-comedy-club
-"Jest Comedy Club: Aprenda testes unitários em JavaScript de forma envolvente, explorando o humor enquanto testa os truques únicos de comediantes virtuais fictícios. 🎭🃏"
-
-![Jest Comedy Club]([link_para_uma_imagem_engraçada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fpt_br%2Fmemes%2Fmodelos%2F&psig=AOvVaw158Rnl3-vCI1LCr_P_94lE&ust=1709852374279000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDp_sze4IQDFQAAAAAdAAAAABAJ))
 
 Olá, curiosos do humor e testadores incansáveis! Bem-vindos ao Jest Comedy Club, onde o código é engraçado e os testes são as piadas!
 
