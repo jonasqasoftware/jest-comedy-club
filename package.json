@@ -1,0 +1,20 @@
+{
+  "name": "jest-comedy-club",
+  "version": "1.0.0",
+  "description": "Aprendendo testes unitários de forma divertida com Jest e JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  
+  "keywords": [
+    "jest",
+    "javascript",
+    "testes-unitários"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
